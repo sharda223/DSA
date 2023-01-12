@@ -1,4 +1,4 @@
-package SinglyLinkedList;
+
 
 public class LL {
     Node head;

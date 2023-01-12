@@ -1,4 +1,4 @@
-package LLProblems;
+
 
 //Implement stack using linkedlist
 public class ImplementStackUsingLinkedList {

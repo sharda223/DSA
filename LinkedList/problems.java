@@ -1,4 +1,4 @@
-package LLProblems;
+
 
 //find nth node from the last after that delete that nth  node
 

@@ -1,4 +1,4 @@
-package SinglyLinkedList;
+
 import java.util.*;
 
 public class LLthroughCollection {
